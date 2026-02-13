@@ -41,3 +41,4 @@ Companies need to understand factors affecting salary levels to improve hiring d
 - Microsoft Excel
 - Pivot Tables
 - Dashboard Design
+<img width="1612" height="717" alt="dashboard" src="https://github.com/user-attachments/assets/cc8ae439-6fba-4909-81d5-ad9c6aaa8b5f" />
