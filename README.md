@@ -1,4 +1,3 @@
-# customer-data-analysis
 # Customer Data Analysis
 
 ## 📊 Project Overview
