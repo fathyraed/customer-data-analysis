@@ -6,7 +6,7 @@ This project analyzes customer and salary data to discover patterns and business
 ##  Business Problem
 Companies need to understand factors affecting salary levels to improve hiring decisions and cost management.
 
-## 🗂 Dataset Description
+##  Dataset Description
 - Simulated HR dataset
 - Contains salary, gender, education, experience and age
 
